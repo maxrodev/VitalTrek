@@ -18,7 +18,8 @@ Participé en el **bounded context de gestión de tours** (tour-management).
 
 ## Dónde ver el trabajo completo
 
-- [Organización VitalTrek](https://github.com/VitalTrek-Project): todos los repositorios del proyecto
+- [Organización VitalTrek](https://github.com/VitalTrek-Project): todos los repositorios del proyecto - 202610
+- [Organización VitalTrek]([https://github.com/VitalTrek-Project](https://github.com/1ASI0729-2620-16712-G4-Nexatech): todos los repositorios del proyecto - 202620
 
 ## Contacto
 
